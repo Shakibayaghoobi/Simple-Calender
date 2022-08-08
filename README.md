@@ -1,5 +1,5 @@
-# calender
-# I wrote a function for making a calendar, it should accept
+# *simple calender*
+# I wrote a function for making a calendar, that accept
 # two parameters => year and month.
 # This function will build calendar on screen by using HTML
 # table tag.
